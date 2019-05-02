@@ -1,0 +1,33 @@
+rnachaloor@gmail.com
+
+testAssignment No. = 1
+Assignment Name = Unit Test
+Catagory  = major
+Grade  = 93
+
+Assignment No. = 2
+Assignment Name = Unit Test
+Catagory  = major
+Grade  = 95
+
+Assignment No. = 3
+Assignment Name = quiz 1
+Catagory  = minor
+Grade  = 96
+
+Assignment No. = 4
+Assignment Name = quiz 2
+Catagory  = minor
+Grade  = 98
+
+Assignment No. = 17090
+Assignment Name = test
+Catagory  = major
+Grade  = 90
+
+Assignment No. = 17091
+Assignment Name = quiz
+Catagory  = minor
+Grade  = 95
+
+Your average is:92.5%
